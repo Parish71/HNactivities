@@ -1,0 +1,38 @@
+>(Conditionals) Variables and Functions.
+Rafael Parish
+CS50P => 1° Aula.
+
+
+Examples of symbols:
+
+> "Greather Then"
+>= "Greather Then or Equal"
+<  "Less Then"
+<= "Less Then or Equal"
+== "Equal"  #not just in python
+!= "Not Equal To"
+
+if - you can ask questions  about if something is happen then: go to compare:
+
+diagram about the logic of the program
+start -> x<y if true -> "x is less than y" if false-> x>y -> if false not print
+search on the internet for more details
+
+update elif commit to compare.0.0 -> compare.0.1
+
+analysis of the new fluxogram
+
+update else commit to compare.0.0 -> compare.0.1
+
+analysis of the new fluxogram
+
+update or and change the intent of the code in analysis if x is equal or not to ycommit to compare.0.2 -> compare.0.3
+
+"Can i make less questions?"
+
+Use logic
+
+bool ("python acepts bool as bolean values TRUE or FALSE")
+
+
+

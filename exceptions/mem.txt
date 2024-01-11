@@ -1,0 +1,20 @@
+> (exceptions).
+Rafael Parish
+CS50P => 3° Aula.
+---------------------------------------------------------------
+Emily Pugh
+
+----------------------------------------------------------------
+SyntaxError ->  print("hello", world) -> When you ussomething that the sintax dont accept.
+This case -> print("hello, world")
+
+ValueError -> x=int and you send a string on the program. number.0.0.py run on int numbers
+But cannot receive a string like "cat"
+
+keyword - try and except
+
+NameError: Local Varibles and Global Variables. You basicaly send a invalid datatype for the x
+and him is not defined. Therefore the else of number 0.4 gives him
+In number 0.4 we have a infinite loop for dont accept the wrong data type. Until you put an integer is a loop.
+
+
